@@ -24,7 +24,8 @@ public class RowNumberWindowFunction {
 //		  .config("spark.sql.warehouse.dir", warehouseLocation)
 //		  .enableHiveSupport()
 //		  .getOrCreate();
-		SparkConf conf =new SparkConf();
+		SparkConf conf =new SparkConf()
+							.setAppName("RowNumberWindowFunction");
 		JavaSparkContext sc = new JavaSparkContext(conf);
 		HiveContext hiveContext = new HiveContext(sc.sc());
 		

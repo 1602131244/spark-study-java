@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="cn.spark.study.AppTest" time="0.006" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="cn.spark.study.AppTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="F:\jdk1.8\bin"/>
@@ -27,9 +27,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="F:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7409146274909580515.tmp"/>
+    <property name="classworlds.conf" value="F:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2879718580163154628.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.library.path" value="F:\jdk1.8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:/jdk1.8/bin/server;F:/jdk1.8/bin;F:/jdk1.8/lib/amd64;C:\ProgramData\Oracle\Java\javapath;c:\oracle\ora92\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;D:\jdk1.8\bin;D:\jdk1.8\jre\bin;F:\hadoop\apache-maven-3.3.3\bin;D:\java\tomcat7\lib;D:\java\tomcat7\bin;D:\work\MySQL\MySQL Server 5.7\bin;F:\hadoop\hadoop-2.6.5\bin;F:\hadoop\apache-ant-1.9.9\bin;D:\work\scala\bin;D:\work\scala\jre\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;C:\Users\Administrator\AppData\Local\atom\bin;D:\work\eclipse;;."/>
+    <property name="java.library.path" value="F:\jdk1.8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:/jdk1.8/bin/server;F:/jdk1.8/bin;F:/jdk1.8/lib/amd64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\ProgramData\Oracle\Java\javapath;c:\oracle\ora92\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;D:\jdk1.8\bin;D:\jdk1.8\jre\bin;F:\hadoop\apache-maven-3.3.3\bin;D:\java\tomcat7\lib;D:\java\tomcat7\bin;D:\work\MySQL\MySQL Server 5.7\bin;F:\hadoop\hadoop-2.6.5\bin;F:\hadoop\apache-ant-1.9.9\bin;D:\work\scala\bin;D:\work\scala\jre\bin;D:\work\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35\;C:\Users\Administrator\AppData\Local\atom\bin;D:\work\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -62,5 +62,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="cn.spark.study.AppTest" name="testApp" time="0.006"/>
+  <testcase classname="cn.spark.study.AppTest" name="testApp" time="0.002"/>
 </testsuite>
